@@ -1,10 +1,12 @@
-# Práctica 4.1: Progr4amación orientada a objetos
+# Práctica 4.1: Programación orientada a objetos
 
 Apóyate en los siguientes recursos para realizar la práctica:
 
 [U4: 1. POO](./EjerciciosSencillosPOO.md)
 
 > ATENCIÓN: DURANTE LA DOCUMENTACIÓN DE LA PRÁCTICA, ELIMINA TODO AQUELLO QUE NO APLIQUE. PEEEEEEEROOOOOOO, ANTES DE ELIMINAR ALGO, PIENSA SI APLICA O NO.
+
+Los ejercicios están [aqui](./EjerciciosSencillosPOO.md)
 
 ---
 
